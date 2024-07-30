@@ -22,10 +22,15 @@ Un notebook interactivo que muestra el flujo completo del proceso ETL y el entre
 
 ## Requisitos
 
-Asegúrate de tener las siguientes librerías instaladas:
+Asegúrate de tener las siguientes librerías instaladas y credenciales necesarias para:
+
 pandas
+
 scikit-learn
+
 google-cloud-bigquery
+
 google-cloud-storage
+
 joblib
 
